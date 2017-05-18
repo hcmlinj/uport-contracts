@@ -18,3 +18,6 @@ yarn migrate
 yarn console
 // or npm run console
 ```
+
+## Documentation
+* [Official Truffle Documentation](http://truffleframework.com/docs/)
