@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "uPort Contracts for identity",
   "main": "index.js",
-  "repository": "git@github.com:uport-project/uport-identity.git",
+  "repository": "https://github.com/hcmlinj/uport-contracts.git",
   "author": "Jamie",
   "license": "MIT",
   "scripts": {
